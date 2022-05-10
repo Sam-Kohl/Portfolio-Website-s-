@@ -2701,7 +2701,7 @@ input, select, textarea {
 				padding-top: 0;
 			}
 
-/* Poptrox */
+/* Poptrox
 
 	@-moz-keyframes spin {
 		0% {
@@ -2956,7 +2956,7 @@ input, select, textarea {
 
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
-			}
+			} */
 
 /* Touch */
 
@@ -3184,14 +3184,14 @@ input, select, textarea {
 
 		/* Poptrox */
 
-			.poptrox-popup {
+			/* .poptrox-popup {
 				border-radius: 0;
 			}
 
 				.poptrox-popup .nav-next:before,
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
-				}
+				} */
 
 	}
 
